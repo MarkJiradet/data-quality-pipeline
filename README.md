@@ -14,3 +14,5 @@ This project simulates and detects data quality issues in synthetic e-commerce t
 ```bash
 docker build -t dq-pipeline .
 docker run -p 8501:8501 dq-pipeline
+
+Visit: http://localhost:8501
